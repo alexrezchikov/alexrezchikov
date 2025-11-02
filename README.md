@@ -1,4 +1,4 @@
-# alexrezchikov.github.io
+# Hi
 Hi everyone, guys. 👋🏼
 I'm a beginner systems programmer.
 My stack:
